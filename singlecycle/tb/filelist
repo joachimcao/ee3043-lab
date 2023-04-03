@@ -1,0 +1,10 @@
+../src/mypkg.svh
+../src/riscv_pkg.svh
+../src/alu.sv
+../src/bru.sv
+../src/data_memory.sv
+../src/decoder.sv
+../src/inst_memory.sv
+../src/lsu.sv
+../src/regfile.sv
+../src/singlecycle.sv
